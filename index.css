@@ -10,18 +10,18 @@ main {
     background-image: linear-gradient(to bottom, #09179c, rgb(160, 68, 52));
 }
 
-header {
+h1 {
     display: flex;
     justify-content: center;
     padding-top: 150px;
-}
-
-h1 {
     margin-bottom: 40px;
     color: azure;
 }
 
 h2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
     margin-bottom: 40px;
     color: azure;
 }
