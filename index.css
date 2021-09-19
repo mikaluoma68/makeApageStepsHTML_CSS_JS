@@ -25,3 +25,8 @@ h2 {
     margin-bottom: 40px;
     color: azure;
 }
+
+p {
+    display: flex;
+    justify-content: center;
+}
